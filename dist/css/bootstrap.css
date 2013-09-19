@@ -1420,6 +1420,10 @@ th {
   text-align: left;
 }
 
+td {
+  padding: 8px;
+}
+
 .table {
   width: 100%;
   margin-bottom: 20px;
