@@ -576,6 +576,10 @@ ol ol {
   margin-bottom: 0;
 }
 
+ul li {
+  list-style: square;
+}
+
 .list-unstyled {
   padding-left: 0;
   list-style: none;
